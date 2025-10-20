@@ -44,7 +44,7 @@ Ein kleines **iOS-Widget** für Scriptable, das die aktuellen **Solar-Terrestria
 
 > Das Widget zeigt die aktuelle Solar-Terrestrial Grafik direkt auf dem Homescreen an.  
 
-![Widget Preview](https://www.hamqsl.com/solar101vhf.php)
+![Widget Preview](https://raw.githubusercontent.com/PhilTec-Philip/HAMQSL-Widget/refs/heads/main/preview.jpg)
 
 ## Hinweise
  
